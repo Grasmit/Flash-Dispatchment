@@ -1,7 +1,8 @@
 # FlashDispatchment
 
-A web application through which user can transfer theier inanimate things to the other users.
+A web application through which user can request to transfer their inanimate things to the other person.
 
+Following below steps
 1) User have to sign in or log in
 2) User can request to transer things
 3) confirm request and you will get order no 
